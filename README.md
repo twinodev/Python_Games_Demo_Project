@@ -39,4 +39,4 @@ A collection of fun, beginner-friendly console-based games written in Python. Pe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Python_Games_Demo_Project.git
+   git clone https://github.com/twinodev/Python_Games_Demo_Project.git
